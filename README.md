@@ -1,24 +1,3 @@
 # Kolinko_lab1
-#include <iostream>
-#include <Windows.h>
-using namespace std;
+[Uploading Звіт  лабораторна №1 Колінька.docx…]()
 
-int main()
-{
-    int number;
-    
-    if(number>0) {
-        cout << "Це число додатнє";
-        
-    } else if(number<0) {
-        cout << "Це число відємне";
-        
-    } else {
-        count << "Це число дорівнює нулю";
-        
-    }
-    
-    
-
-    return 0;
-}
